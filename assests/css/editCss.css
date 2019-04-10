@@ -1,0 +1,129 @@
+@media only screen and (max-width: 479px){
+.jquery1-slider-wrap {
+    width: 354px;
+    height: 560px;
+
+ }
+
+}
+@media only screen and (max-width: 1023px){
+#main .main-area {
+    width: auto;
+    padding: 16px 0px 0px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+ol ,p {
+      font-size: 12px;
+}
+
+}
+
+.member-wrap .member-bio h4{
+  padding-top: 20px
+}
+
+@media only screen and (max-width: 479px){
+.jquery1-slider-wrap {
+    width: 359px;
+    height: 1500px!important;
+}}
+@media only screen and (max-width: 479px){
+.jquery1-slider-wrap .slider-content-sub, .jquery1-slider-wrap .slider-content-video, .jquery1-slider-wrap .slider-content-sub img {
+  width: 191px;
+    height: 123px;
+    margin: 12px auto;
+    float: initial;
+}
+
+}
+@media only screen and (max-width: 479px){
+.jquery1-slider-wrap .slider-content-main {
+        margin: 24px 0 0 76px;
+    height: 1500px;
+
+}
+
+}
+
+@media only screen and (max-width: 1023px){
+#header .header-area {
+    width: auto;
+    padding: 0px 0px 0px;
+}
+
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media (min-width: 30em) and (max-width: 50em) {
+
+}
+
+/* // Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+  .headercontent{
+
+  }
+
+  .headercontent h1 {
+  display: none;
+  } }
+
+/* // Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+  .headercontent{
+
+  }
+
+  .headercontent h1 {
+  display: none;
+  } }
+
+/* // Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+  .headercontent{
+
+  }
+
+  .headercontent h1 {
+    left: 92px;
+top: 52px;
+        color: #FFF;
+            position: absolute;
+            border-bottom: none;
+  }
+}
+
+/* // Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  .headercontent{
+
+  }
+
+  .headercontent h1 {
+      left: 219px;
+          top: 48px;
+          color: #FFF;
+              position: absolute;
+              border-bottom: none;
+                  text-align: -webkit-center;
+  }}
+
+/* // Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+  .headercontent{
+
+  }
+
+  .headercontent h1 {
+    color: #FFF;
+        position: absolute;
+        top: 78px;
+        border-bottom: none;
+        /* float: left; */
+        left: 435px;
+  } }
+
+  .member-bio{
+    width: auto;
+  }
