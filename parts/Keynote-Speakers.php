@@ -12,7 +12,7 @@
 
 	                         <div class="member-bio">
 	                            <h4 class="team-member-name">Prof. Omer Rana</h4>
-	                            <p class="team-member-title">Biography</p>
+	                            <p>Biography</p>
 															<p>
 																Omer F. Rana is Professor of Performance Engineering at Cardiff University, with research interests in high performance distributed computing, data analysis/mining and multi-agent systems. He is the Dean of International for the Physical Science and Engineering College at Cardiff University He previously led the Complex Systems Research Group, and was also formerly the deputy director of the Welsh eScience Centre and had the opportunity to interact with a number of computational scientists across Cardiff University and the UK. He serves on the steering committee of Cardiff University's multi-disciplinary "Data Innovation" and "Energy Systems" Research Institutes. Rana has contributed to specification and standardisation activities via the Open Grid Forum and worked as software developer with London-based Marshall Bio-Technology Limited prior to joining Cardiff University, where he developed specialist software to support biotech instrumentation. He also contributed to public understanding of science, via the Wellcome Trust funded "Science Line", in collaboration with BBC and Channel 4. Rana holds a PhD in "Neural Computing and Parallel Architectures" from Imperial College (London Univ.), an MSc in Microelectronics (Univ. of Southampton) and a BEng in Information Systems Eng. from Imperial College (London Univ.). He serves on the editorial boards (as Associate Editor) of IEEE Transactions on Parallel and Distributed Systems, (formerly) IEEE Transactions on Cloud Computing, IEEE Cloud Computing magazine and ACM Transactions on Internet Technology. He is a founding-member and associate editor of ACM Transactions on Autonomous & Adaptive Systems.
 
@@ -48,7 +48,7 @@
 
 															 					<div class="member-bio">
 															 						 <h4 class="team-member-name">Dr. Norma Alias</h4>
-															 						 <p class="team-member-title">Biography</p>
+															 						 <p>Biography</p>
 																					 <p>
 																					 Dr Norma Alias is currently an Associate Professor, and Research Fellow and Head of Networking and Linkages Division of Center for Sustainable Nanomaterials, IbnuSina Institute for Scientific and Industrial Research (IIS), UniversitiTeknologi Malaysia (UTM). She was appointed as an Associate Professor and Research Fellow at King Saud University, Saudi Arabia. She is a member of the Malaysian Mathematical Sciences Society.
 															 AP Dr. Norma possessed a PhD degree in Industrial Computing (Parallel Computing) in 2004. She has a diverse field of specializations including mathematical modeling, big data simulation, industrial computing, scientific computing, high performance computing, shared-distributed parallel computing system, grid computing and software development. She has supervised for 13 PhD students and 32 MSc with Philosophy. She is supervising ongoing 5 PhD students , 12 MSc with Philosophy students, 2 postdoctoral students and reviewing postgraduate students of local and international universities. Awarded as Distinguished Women in Mathematical Sciences in the year 2018 from VIWA, India. AP Dr. Norma has a distinguished academic and research track record having published over 200 publications which consist of index journal, index proceedings articles, books and modules. She is an active innovator , having earned 2 product patent disclosures in 2015, 4 Intellectual property declarations, and 16 medals won in product innovation and invention expo since 2004 and having 2 products for commercialization.
@@ -72,14 +72,14 @@
 
 							<div class="member-bio">
 								 <h4 class="team-member-name">Prof. Muhammad Khurram Khan</h4>
-								 <p class="team-member-title">Biography</p>
+								 <p>Biography</p>
 								 <p>
 								Prof. Muhammad Khurram Khan is currently working at the Center of Excellence in Information Assurance (CoEIA), King Saud University, Kingdom of Saudi Arabia. He is the founder and CEO of the ‘Global Foundation for Cyber Studies and Research’ (http://www.gfcyber.org), which is an independent, non-profit, and non-partisan cybersecurity think tank based in Washington D.C.
 							He is the Editor-in-Chief of a well-reputed International journal ‘Telecommunication Systems’ published by Springer with its recent impact factor of 1.542 (JCR 2017). Furthermore, he is the editor of several international journals, including, IEEE Communications Surveys & Tutorials, IEEE Communications Magazine, IEEE Internet of Things Journal, IEEE Transactions on Consumer Electronics, IEEE Access, IEEE Consumer Electronics Magazine, Journal of Network & Computer Applications, PLOS ONE, Electronic Commerce Research, and IET Wireless Sensor Systems.
 							Prof. Khurram is the recipient of King Saud University Award for Scientific Excellence (Research Productivity) in May 2015. He is also a recipient of King Saud University Award for Scientific Excellence (Inventions, Innovations, and Technology Licensing) in May 2016.
 							He has published more than 350 papers in the journals and conferences of international repute. In addition, he is an inventor of 10 US/PCT patents. His research areas of interest are Cybersecurity, digital authentication, biometrics, IoT security, and technological innovation management.
 							He is a fellow of the IET (UK), fellow of the BCS (UK), fellow of the FTRA (Korea), senior member of the IEEE (USA), member of the IEEE Consumer Electronics Society, member of the IEEE Communications Society, member of the IEEE Technical Committee on Security & Privacy, member of the IEEE IoT Community, and member of the IEEE Cybersecurity Community. He is also the Vice Chair of IEEE Communications Society Saudi Chapter. He is a distinguished Lecturer of the IEEE. His detailed profile can be visited at http://www.professorkhurram.com
-									<br/><cite>Biography</cite>
+
 								</p>
 
 							</div><!-- END member-bio -->
@@ -88,6 +88,39 @@
 
 
 	<!-- =========================================================== -->
+
+	<div class="member-wrap">
+					 <div class="member-photo">
+							<div class="shadow_img_frame shadow_square">
+								 <div class="img-preload"><img src="assests/images/speackers/Youcef-Toumi.jpg" alt="" class="attachment-fadeIn" style="display: inline;"></div>
+							</div>
+					 </div><!-- END member-photo -->
+
+					 <div class="member-bio">
+							<h4 class="team-member-name">Prof. Muhammad KhurKamal Youcef-Toumi</h4>
+
+							<p >Biography:</p>
+							<p>
+								Kamal Youcef-Toumi is a Professor in the Mechanical Engineering Department at Massachusetts Institute of Technology(MIT) USA. He is
+	 Co-Director of the Center for Complex Engineering Systems at KACST and MIT, and Director of
+	 the Ibn Khaldun Fellowship for Saudi Women. His M.S. and Sc.D. degrees are from MIT.
+	 Professor Youcef-Toumi&#39;s research focuses on design, modeling, simulation, instrumentation, and
+	 control theory with applications to manufacturing, robotics, automation, and metrology. He has
+	 made significant contributions to MIT’s international research and education collaborations in
+	 Qatar, Saudi Arabia, and Singapore. Professor Youcef-Toumi is a recipient of the National
+	 Science Foundation Presidential Young Investigator award from President Ronald Reagan. He
+	 served on many professional committees and as a consultant for multinationals. He is an IEEE
+	 member and an ASME Fellow. He served as Editor of several symposia/conference proceedings.
+	 He is author of over 320 publications, and about 50 registered/pending patents. He has been
+	 invited to lecture at over 200 seminars worldwide.
+						 </p>
+
+					 </div><!-- END member-bio -->
+				</div>
+
+
+
+<!-- =========================================================== -->
 
 </div>
 
