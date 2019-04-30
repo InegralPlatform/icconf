@@ -10,8 +10,9 @@
 International Conference on Computing (ICC) invites authors to submit original contributions in the event research area. ICC covers four main themes: Data Science, Cyber Security, Networks and IoT and Information System and Applications.
 
   <p>
-    Papers accepted and presented at ICC, will be submitted for possible inclusion in Springer Lecture Notes in Computer Science (LNCS). This distinguished conference proceedings publishes the latest research developments in all areas of computer science at a high level.
-  Authors of selected papers accepted for publication in ICC proceedings will be invited to submit an extended version of their papers to the conference related journals.
+   ICC 2019 accepted papers will be submitted for possible inclusion in Springer Communications in Computer and Information Science (CCIS). This distinguished conference proceedings publishes the latest research developments in all areas of computer science at a high level. 
+Communications in Computer and Information Science (CCIS) series is indexed by the ISI Conference Proceedings Citation Index - Science (CPCI-S), included in ISI Web of Science, EI Engineering Index (Compendex and Inspec databases), ACM Digital Library, dblp, Google Scholar, Scopus, etc.
+.
 
   </p>
 
