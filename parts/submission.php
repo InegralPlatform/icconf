@@ -26,12 +26,12 @@ Communications in Computer and Information Science (CCIS) series is indexed by t
   <ul>
     <li>
     <p>
-      Long papers: will not exceed 8 pages including figures, tables and references
+      Long papers: Must be 12 to 15 pages including figures, tables and references.
     </p>
     </li>
     <li>
     <p>
-        Short papers: will not exceed 4 pages including figures, tables and references, and a minimum of Three (3) pages.
+        Short papers: Must be 6 to 8 pages including figures, tables and references.
     </p>
     </li>
   </ul>
