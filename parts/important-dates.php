@@ -7,11 +7,11 @@
   <table>
     <tr>
       <td><p>Submission Deadline</p></td>
-      <td><p>June 6 <sup>th</sup>, 2019 </p></td>
+      <td><p>June 6<sup>th</sup>, 2019 </p></td>
     </tr>
     <tr>
       <td><p>Notification Deadline</p></td>
-      <td><p>July 15 <sup>th</sup>, 2019  </p></td>
+      <td><p>July 15<sup>th</sup>, 2019  </p></td>
 
 
 
