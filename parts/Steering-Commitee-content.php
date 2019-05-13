@@ -12,7 +12,7 @@
 <ol> Atta Badii  , <strong>University of Reading, UK</strong></ol>
  <ol>Danny Hughes  , <strong>K. U. Leuven, Belgium</strong></ol>
 <ol>David Taniar , <strong>Monash University, Australia </strong></ol>
-<ol> Elhadi Shakshuki  , <strong>Acadia University, Canada</strong></ol>
+<ol> Mai Alduailij  , <strong>Princess Nourah University, Saudi Arabia</strong></ol>
  <ol>Haroon Malik  , <strong>Marshall University, USA</strong></ol>
 <ol>Heba A. Kurdi , <strong> King Saud University </strong></ol>
 <ol>Rahim Rahmani   , <strong>Stockholm University, Sweden</strong></ol>
